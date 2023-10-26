@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="color_options_band1">
+        <item>Black</item>
+        <item>Brown</item>
+        <item>Red</item>
+        <item>Orange</item>
+        <item>Yellow</item>
+        <item>Green</item>
+        <item>Blue</item>
+        <item>Violet</item>
+        <item>Gray</item>
+        <item>White</item>
+    </array>
+
+    <array name="color_options_band2">
+        <item>Black</item>
+        <item>Brown</item>
+        <item>Red</item>
+        <item>Orange</item>
+        <item>Yellow</item>
+        <item>Green</item>
+        <item>Blue</item>
+        <item>Violet</item>
+        <item>Gray</item>
+        <item>White</item>
+    </array>
+
+    <array name="color_options_band3">
+        <item>Black</item>
+        <item>Brown</item>
+        <item>Red</item>
+        <item>Orange</item>
+        <item>Yellow</item>
+        <item>Green</item>
+        <item>Blue</item>
+        <item>Violet</item>
+        <item>Gray</item>
+        <item>White</item>
+    </array>
+
+    <array name="color_options_band4">
+        <item>Black</item>
+        <item>Brown</item>
+        <item>Red</item>
+        <item>Orange</item>
+        <item>Yellow</item>
+        <item>Green</item>
+        <item>Blue</item>
+        <item>Violet</item>
+        <item>Gray</item>
+        <item>White</item>
+    </array>
+
+    <array name="color_options_band5">
+        <item>Brown</item>
+        <item>Red</item>
+        <item>Green</item>
+        <item>Blue</item>
+        <item>Violet</item>
+        <item>Gray</item>
+        <item>Gold</item>
+        <item>Silver</item>
+    </array>
+</resources>
